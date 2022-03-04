@@ -1,3 +1,3 @@
-import Badge from './components/Badge';
+import InputBox from './components/InputBox';
 import Button from './components/Button';
-export { Badge, Button };
+export { InputBox, Button };
